@@ -8,4 +8,4 @@ Just unpack the zip and run it through the exe. Enjoy the game!
 Однако, поскольку доступ к сайту для некоторых пользователей может быть ограничен, я сделал доступной для скачивания декстоп версию.
 Просто распакуйте zip-файл и запустите его через исполняемый файл. Приятной игры!
 
-Download/ Скачать:
+Download/ Скачать: https://github.com/Sebastian-hi/SpeedDemon-FinalDesktopBuild/releases/tag/game
